@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+}
+html{
+
+        font-size: 62.5%;
+        margin-left: 10%;
+        margin-right: 10%;
+        font-family: Arial, Helvetica, sans-serif;
+        
+     
+}
+body {
+    font-size: 1.6rem;
+  }
+  header {
+    height: 30vh;
+    
+  }
+  img{
+    width: 10rem;
+  }
+  main {
+    height: 80vh;
+  }
+  
+  figure, h1{
+    display: inline-block;
+  }
+  figure {
+    margin: 1rem;
+  }
+  h1 {
+    display: inline-block;
+    margin: 5rem;
+    position: absolute;
+    right: 1.5rem;
+    font-size: 2rem;
+  }
+  
+  section {
+    display: inline-block;
+    height: 80vh;
+  }
+  
+  aside {
+    position: absolute;
+    height: 80vh;
+    width: 20vw;
+   
+  }
+  
+  section {
+    position: absolute;
+    left: 35vw;
+    width: 60vw;
+    padding: 1rem;
+    
+  }    
+  p{
+    font-size: 1.5rem;
+    text-align: justify;
+  }
+  
